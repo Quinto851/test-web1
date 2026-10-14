@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Blog: How To Choose Gym Apparel Supplier | KUNDAO Apparel</title>
+    <!-- GA4 Code -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-XXXXXXXXXX"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+        gtag('config', 'G-XXXXXXXXXX');
+    </script>
+    <style>
+        *{margin:0;padding:0;box-sizing:border-box;font-family:Arial, sans-serif;}
+        body{color:#333;line-height:1.6;background:#f8f9fa;}
+        header{background:#222;color:#fff;padding:2rem;text-align:center;}
+        nav{margin-top:1rem;}
+        nav a{color:#87CEFA;text-decoration:none;margin:0 8px;}
+        nav a:hover{text-decoration:underline;}
+        main{max-width:1000px;margin:3rem auto;padding:0 2rem;}
+        h2{margin-bottom:1rem;color:#222;}
+        p{margin-bottom:1rem;font-size:1.05rem;}
+        button{background:#2563eb;color:#fff;border:none;padding:0.8rem 1.6rem;border-radius:6px;font-size:1rem;cursor:pointer;}
+        button:hover{background:#1d4ed8;}
+    </style>
+</head>
+<body>
+    <header>
+        <h1>KUNDAO Apparel | 昆道有限公司</h1>
+        <nav>
+            <a href="index.html">Home</a> |
+            <a href="product.html">Products</a> |
+            <a href="blog.html">Blog</a> |
+            <a href="case.html">Case Studies</a> |
+            <a href="landing.html">Get Quote</a>
+        </nav>
+    </header>
+
+    <main>
+        <h2>How to Find A Reliable Fitness Clothing Manufacturer</h2>
+        <p>Many new fitness brand owners struggle to find stable gym wear suppliers. This guide explains how to check fabric quality, MOQ, sample service and delivery schedule.</p>
+        <p>KUNDAO Apparel provides sample service before bulk orders to reduce risks for new brands.</p>
+        <p>After reading this guide, view our real client project cases below.</p>
+        <a href="case.html"><button onclick="gtag('event','cta_click',{page:'blog'})">View KUNDAO Customer Cases</button></a>
+    </main>
+</body>
+</html>

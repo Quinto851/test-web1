@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Get Wholesale Quote | KUNDAO Apparel</title>
+    <!-- GA4 Code -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-XXXXXXXXXX"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+        gtag('config', 'G-XXXXXXXXXX');
+    </script>
+    <style>
+        *{margin:0;padding:0;box-sizing:border-box;font-family:Arial, sans-serif;}
+        body{color:#333;line-height:1.6;background:#f8f9fa;}
+        .container{max-width:700px;margin:5rem auto;text-align:center;padding:0 2rem;}
+        h1{margin-bottom:1rem;color:#222;}
+        p{margin-bottom:2rem;font-size:1.05rem;}
+        button{background:#2563eb;color:#fff;border:none;padding:0.9rem 1.8rem;border-radius:6px;font-size:1.1rem;cursor:pointer;}
+        button:hover{background:#1d4ed8;}
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Get Custom Fitness Apparel Quote From KUNDAO Apparel</h1>
+        <p>昆道有限公司 | Reply within 24 hours after inquiry submission</p>
+
+        <!-- Demo表单，仅触发GA转化事件，不会提交真实数据 -->
+        <div style="margin:40px 0;">
+            <p>Demo Inquiry Form</p>
+            <button onclick="gtag('event','form_submit',{form:'landing_quote'})">Submit Inquiry</button>
+        </div>
+    </div>
+</body>
+</html>
